@@ -29,10 +29,6 @@ function hideTrendingTopics() {
 function blockAndDisplay() {
     var feed = $('[id^=topnews_main_stream], [id^=mostrecent_main_stream], [id^=pagelet_home_stream]');
 
-    if (feed.length == 0) {
-        message.remove();
-    }
-
     feed.children().remove();
     $('.ticker_stream').remove();
     $('.ego_column').remove();

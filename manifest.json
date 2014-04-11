@@ -1,6 +1,6 @@
 {
   "name": "FB Distraction Free",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Hides the News Feed, Trending Topics, and Side Bar UI Counts on Facebook",
   "homepage_url": "https://github.com/mriveralee/fb-distraction-free",
